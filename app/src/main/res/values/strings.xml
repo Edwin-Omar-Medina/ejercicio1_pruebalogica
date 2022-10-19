@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio1_pruebalogica</string>
+    <string name="ingreso">Ingrese el texto aquí</string>
+    <string name="add">Agregar</string>
+</resources>
